@@ -44,6 +44,6 @@ jobs:
         working-directory: CleanCodeDevOps/CleanCodeDevOps.App
         run: dotnet build 
 
-      - name: Run Code
+      - name: Run code
         run: dotnet run --project CleanCodeDevOps/CleanCodeDevOps.App/CleanCodeDevOps.App.csproj
       
