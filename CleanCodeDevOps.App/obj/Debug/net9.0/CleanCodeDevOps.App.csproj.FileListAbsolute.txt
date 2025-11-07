@@ -1,0 +1,14 @@
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\bin\Debug\net9.0\CleanCodeDevOps.App.exe
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\bin\Debug\net9.0\CleanCodeDevOps.App.deps.json
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\bin\Debug\net9.0\CleanCodeDevOps.App.runtimeconfig.json
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\bin\Debug\net9.0\CleanCodeDevOps.App.dll
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\bin\Debug\net9.0\CleanCodeDevOps.App.pdb
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.AssemblyInfoInputs.cache
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.AssemblyInfo.cs
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.csproj.CoreCompileInputs.cache
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.dll
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\refint\CleanCodeDevOps.App.dll
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.pdb
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\CleanCodeDevOps.App.genruntimeconfig.cache
+C:\Users\Pyrotech\Desktop\CleanCodeDevOps\CleanCodeDevOps.App\obj\Debug\net9.0\ref\CleanCodeDevOps.App.dll
